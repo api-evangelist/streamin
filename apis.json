@@ -1,0 +1,57 @@
+{
+    "name": "StreamIn",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/1902_logo.jpg",
+    "tags": [
+        "applications",
+        "have api",
+        "notifications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/streamin\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "StreamIn",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/1902_logo.jpg",
+            "humanURL": "http:\/\/streamin.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/streamin-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/app.streamin.io\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/eontek.rs\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/streamin"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/streamin.io\/developers\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/streamin_io"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/streamin.io"
+        }
+    ]
+}
